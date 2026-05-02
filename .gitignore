@@ -1,0 +1,6 @@
+results/
+*.log
+*.DS_Store
+*.txt
+*.nmap
+*.gnmap
